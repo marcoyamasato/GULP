@@ -1,0 +1,1 @@
+function ಠ_ಠ96(n,u){return n+u}

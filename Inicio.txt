@@ -1,0 +1,13 @@
+No terminal powershell:
+	
+	- npm install --global gulp-cli
+	- Navega até a pasta desejada (com cd ..)
+	- npm init
+	- npm install --save-dev gulp
+
+No vscode:
+
+	- Em package.json > scripts: "gulp":"gulp",
+	- Criamos um arquivo "gulpfile.js"
+	- criar o .gitignore e colocar o "node_modules" (sem aspas) dentro
+	

@@ -1,0 +1,9 @@
+No terminal VSCODE:
+
+	- npm install --save-dev gulp-sass
+	- npm install --save-dev sass
+
+
+No arquivo gulpfile.js:
+
+	- const sass = require('gulp-sass')(require('sass')) (o "gulp-sass" é responsável pela integração gulp vs sass. O pacote "sass" é ele mesmo.
